@@ -6,6 +6,7 @@ Breast cancer is one of the most common and deadly cancers among women worldwid
  r patient outcomes. But traditional diagnostic methods, such as breast examination and
  traditional screening methods, often face issues with sensitivity and specificity, which c
  an make the test invisible or negative. 
+ 
  2.LITERATURE SURVEY: 
 In recent years, the application of deep learning in medical imaging has made significan
  t progress, with convolutional neural networks (CNN) at the forefront. CNNs are designe
